@@ -1,0 +1,15 @@
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.csproj.AssemblyReference.cache
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.AssemblyInfoInputs.cache
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.AssemblyInfo.cs
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.csproj.CoreCompileInputs.cache
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\bin\Debug\net7.0\amongus.exe
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\bin\Debug\net7.0\amongus.deps.json
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\bin\Debug\net7.0\amongus.runtimeconfig.json
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\bin\Debug\net7.0\amongus.dll
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\bin\Debug\net7.0\amongus.pdb
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.dll
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\refint\amongus.dll
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.pdb
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\amongus.genruntimeconfig.cache
+C:\Users\12esq\Desktop\coding projects\c#\amongus\amongus\obj\Debug\net7.0\ref\amongus.dll
