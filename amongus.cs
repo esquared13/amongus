@@ -56,7 +56,7 @@ namespace amongus
                     Console.WriteLine("...");
                     Console.WriteLine("...");
                     Console.WriteLine("So...");
-                    Console.WriteLine("Press any key to close the program...")
+                    Console.WriteLine("Press any key to close the program...");
                     Console.ReadKey();
                     Console.Close();
                 }
